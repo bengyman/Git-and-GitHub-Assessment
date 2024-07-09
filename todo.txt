@@ -7,3 +7,7 @@ My TO-DO List
 6. Apply for IT jobs.
 Commit to increase your skills in IT
 Search for short courses in IT
+Enrol for short courses in IT
+b. Complete the course
+c. Get certified
+d. Apply for new IT job
